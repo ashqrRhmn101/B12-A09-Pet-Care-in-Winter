@@ -7,8 +7,8 @@ A responsive web application built to help pet owners keep their pets healthy, s
 ## 🌐 Live Website
 🔗 [Pet Care in Winter](https://pet-care-in-winter-757ad.web.app/)
 
-📂 **GitHub Repository:** [Click Here](https://github.com/programming-hero-web-course2/b12-a9-firesheild-ashqrRhmn101)
-
+📂 **GitHub Repository:** [Click Here](https://github.com/ashqrRhmn101/B12-A09-Pet-Care-in-Winter.git)
+📂 **programming-hero-Private-GitHub Repository:** [Click Here](https://github.com/programming-hero-web-course2/b12-a9-firesheild-ashqrRhmn101) 
 ---
 
 ## 🎯 Project Purpose
