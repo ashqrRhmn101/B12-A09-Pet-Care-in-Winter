@@ -46,4 +46,5 @@ The main goal of this project is to educate and assist pet owners in providing p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b12-a9-firesheild-ashqrRhmn101.git
+   Old > git clone https://github.com/programming-hero-web-course2/b12-a9-firesheild-ashqrRhmn101.git
+   New > git clone https://github.com/ashqrRhmn101/B12-A09-Pet-Care-in-Winter.git
